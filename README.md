@@ -4,9 +4,9 @@ A Power BI dashboard project analyzing online course data to uncover learner eng
 
 ## Author
 
-**Niraj Kumar**
-- RTU Roll No: 23EACCs814
-- Email: niraj822697@gmail.com
+**Manish Lal Gupta**
+- RTU Roll No: 23EACCS176
+- Email: manishgupta1458149@gmail.com
 
 
 ## Project Overview
@@ -120,8 +120,6 @@ edtech-project/
 
 ## Dashboard Preview
 
-### Title Page
-![Title Page](images/01_title_page.png)
 
 ### Q1 — Total Number of Courses (After Cleaning)
 ![Q1](images/02_q1_total_courses.png)
